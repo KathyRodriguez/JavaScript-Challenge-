@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-Using UFO sightings data, a dyanmic webpage was created to display user-filtered data. Users can filter data by date, city, state, country, and shape.
+Using UFO sightings data, a dynamic webpage was created to display user-filtered data. Users can filter data by date, city, state, country, and shape.
 
 ## Results
 
