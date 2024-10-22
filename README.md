@@ -1,4 +1,4 @@
-# Module 11 Challenge JavaScript
+# Interactive UFO Data Explorer
 
 ## Overview of Project
 
