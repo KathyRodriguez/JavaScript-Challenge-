@@ -43,4 +43,4 @@ For most textboxes dropdown listboxes is used to help the users know what data i
 ## Resources
 
 Data Source: data.js
-Software: HTML, Javascript, Bootstrap 4.0.0 Styling
+Software: HTML, Javascript, Bootstrap 4.0.0 Styling.
